@@ -1,6 +1,6 @@
 let words = ["hello", "world"];
 
-function getWordLengths(words) {
+function getWordLengthsTT(words) {
   // Start coding here
 }
 
